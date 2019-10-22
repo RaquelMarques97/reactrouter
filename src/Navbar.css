@@ -1,0 +1,7 @@
+nav .active{
+    color:red;
+}
+
+nav li{
+    list-style-type: none;
+}
